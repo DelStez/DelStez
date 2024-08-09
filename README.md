@@ -3,6 +3,6 @@
 
 ## My hobby
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/DelStez.png)
-<a href="https://www.hackthebox.com/home/users/profile/534140"><img src="http://www.hackthebox.eu/badge/image/534140" alt="Hack The Box"></a>
+<a href="https://app.hackthebox.com/profile/534140"><img src="http://www.hackthebox.eu/badge/image/534140" alt="Hack The Box"></a>
 <a href="https://www.codewars.com/users/DelStez"><img src="https://www.codewars.com/users/DelStez/badges/large" alt="Hack The Box"></a>
  
